@@ -74,7 +74,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-xl font-extrabold tracking-tight text-emerald-950 md:text-2xl uppercase font-sans">
-                  MONTY HALL <span className="font-light text-slate-500 uppercase text-xs tracking-widest ml-1">LABS</span>
+                  몬티홀 <span className="font-light text-slate-500 uppercase text-xs tracking-widest ml-1">연구소</span>
                 </h1>
                 <span className="hidden sm:inline-block px-2 py-0.5 text-[9px] font-black uppercase tracking-widest bg-emerald-50 text-emerald-700 border border-emerald-100 rounded">
                   Experimental Probability
